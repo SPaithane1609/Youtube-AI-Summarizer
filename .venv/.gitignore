@@ -1,0 +1,19 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Environment and secrets
+.env
+.aws/
+credentials
+secrets.toml
+
+# Operating System
+.DS_Store
+Thumbs.db

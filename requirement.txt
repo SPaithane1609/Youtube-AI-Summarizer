@@ -1,0 +1,6 @@
+sagemaker
+boto3
+botocore
+youtube-transcript-api
+python-dotenv
+streamlit
