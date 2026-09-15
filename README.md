@@ -9,10 +9,12 @@
 An end-to-end NLP application that extracts transcripts from YouTube videos and generates multi-chunk executive summaries using Hugging Face models deployed on dedicated Amazon SageMaker real-time endpoints.
 
 ## 1. Web App UI
-![alt text](<AWS Sagemaker.png>) 
+<img width="1917" height="1012" alt="AWS Sagemaker" src="https://github.com/user-attachments/assets/b231cfa4-544d-4c98-a7fd-a456ea498a58" />
+ 
 
 ## 2. YouTube video summarized
-![alt text](<AWS sagemaker results.png>)
+<img width="1911" height="1012" alt="AWS sagemaker results" src="https://github.com/user-attachments/assets/feee9a5a-a230-40aa-9b7e-8b0a66903e3a" />
+
 
 
 ---
