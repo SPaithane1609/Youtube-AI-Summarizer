@@ -8,6 +8,13 @@
 
 An end-to-end NLP application that extracts transcripts from YouTube videos and generates multi-chunk executive summaries using Hugging Face models deployed on dedicated Amazon SageMaker real-time endpoints.
 
+## 1. Web App UI
+![alt text](<AWS Sagemaker.png>) 
+
+## 2. YouTube video summarized
+![alt text](<AWS sagemaker results.png>)
+
+
 ---
 
 ## 🏛️ System Architecture
@@ -126,7 +133,7 @@ Run the deployment script:
 python deploy.py
 ```
 
-*Wait for deployment to complete (~4–7 minutes). Copy the output endpoint name (e.g., `huggingface-pytorch-inference-2026-09-03-14-42-59-349`).*
+*Wait for deployment to complete (~4–7 minutes). Copy the output endpoint name (e.g., `huggingface-pytorch-inference-2024-07-03-14-42-59-347`).*
 
 ### 3. Run the Streamlit Application
 
