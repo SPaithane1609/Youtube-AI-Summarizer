@@ -20,7 +20,6 @@ st.set_page_config(
 )
 
 st.title("🎬 YouTube Video AI Summarizer")
-st.caption("Serverless transcript extraction powered by an open-source LLM on Amazon SageMaker")
 
 # ---------------------------------------------------------
 # Sidebar Configuration
